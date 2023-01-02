@@ -1,0 +1,47 @@
+.apresentacao{
+    background-image: linear-gradient(to bottom left, #FFB733, #E8912E, #FF8A3F, #E85A2E, #FF4633);
+    border-radius: 2rem;
+    padding: 20px;
+}
+
+.fabianaContent{
+    background: transparent ;
+}
+.fabianaCarvalho{
+    margin: auto;
+    padding: 1rem;
+    border: 1px double #FFB733;
+    border-radius: 50%;
+    background-color: rgba(255, 255, 255, 0.048);
+}
+.bannerContent{
+    background-color: rgba(255, 255, 255, 0.315);
+    border-radius: 20px;
+}
+.topo{
+    position: fixed;
+    top: 90%;
+    left: 95%;   
+}
+.contato{
+    background-image: linear-gradient(to bottom left, #FFB733, #E8912E, #FF8A3F, #E85A2E, #FF4633);
+    border-radius: 2rem;
+    padding: 20px;
+}
+.contato-form{
+    background-color: rgba(255, 255, 255, 0.048);
+    border-radius: 20px;
+}
+.barra{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+}
+.barras-center{
+    color: #FF4633;
+}
+.barra-center{
+    width: 40%;
+    height: 1px;
+    background-color: #FF8A3F;
+}
